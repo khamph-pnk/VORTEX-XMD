@@ -1,5 +1,5 @@
 {
-  "name": "Vortex-Xmd",
+  "name": "Khamph-Xmd",
   "version": "1.0.0",
   "description": "WhatsApp Bot",
   "main": "index.js",
@@ -13,12 +13,12 @@
     "install:panel": "npm install --legacy-peer-deps",
     "install:force": "npm install --force",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "docker:build": "docker build -t vortex-xmd . && docker run -e SESSION_ID=$SESSION_ID vortex-xmd"
+    "docker:build": "docker build -t khamph-xmd . && docker run -e SESSION_ID=$SESSION_ID khamph-xmd"
   },
   "keywords": [
     "whatsapp-bot"
   ],
-  "author": "",
+  "author": "Khamph",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
