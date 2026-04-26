@@ -1,6 +1,6 @@
 {
-  "name": "Vortex",
-  "description": "A simple yet complicated WhatsApp bot, Devpeacemaker",
+  "name": "Khamph-Xmd",
+  "description": "A simple yet complicated WhatsApp bot by Khamph",
   "keywords": [
     "bot",
     "whatsapp",
@@ -14,8 +14,8 @@
     "baileys-md",
     "md-bot"
   ],
-  "website": "https://github.com/Mrhanstz/VORTEX-XMD*#readme",
-  "repository": "https://github.com/Mrhanstz/VORTEX-XMD",
+  "website": "https://github.com/khamph-pnk/KHAMPH-XMD#readme",
+  "repository": "https://github.com/khamph-pnk/KHAMPH-XMD",
   "logo": "https://files.catbox.moe/5knrbl.jpg",
   "success_url": "/",
   "env": {
