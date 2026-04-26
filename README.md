@@ -4,7 +4,7 @@
 
 <div align="center"> 
   <a href="https://git.io/typing-svg"> 
-    <img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=33ff00&center=true&width=910&height=100&lines=VORTEX-XMD;Multi+Device+Whatsapp+Bot;Coded+By+Hans_Tz" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=33ff00&center=true&width=910&height=100&lines=VORTEX-XMD;Multi+Device+Whatsapp+Bot;Coded+By+Hans_Tz" alt="Typing SVG">
   </a> 
 </div>
 
@@ -36,18 +36,14 @@ Dont forget to fork 🍴 & star 🌟 repo😇
 
 <p align="center">
   <a href="https://github.com/Mrhanstz">
-    <img src="http://readme-typing-svg.herokuapp.com?color=blue&center=true&vCenter=true&multiline=false&lines=VORTEX-XMD+MultiDevice;Developed+by+Mr-HansTz;Give+star+and+fork+this+Repo+bro+🌟" alt="Mrhanstz readme">
+    <img src="http://readme-typing-svg.herokuapp.com?color=blue&center=true&vCenter=true&multiline=false&lines=VORTEX-XMD+MultiDevice;Developed+by+Mr-HansTz;Give+star+and+fork+this+Repo+bro+🌟" alt="Typing SVG">
   </a>
 </p>
 
 ---
 
-  <!-- Recent Commits GIF Animation -->
-  <img src="https://files.catbox.moe/k3gfrv.gif" alt="GitHub Activity Animation" width="800" style="border-radius: 10px;">
-</p>
-
 <p align="center">
-  <img src="https://i.imgur.com/LyHic3i.gif"/>
+  <img src="https://imgur.com/khamph.jpg" alt="KHAMPH-XMD" width="800" style="border-radius: 10px;">
 </p>
 
 ---
@@ -195,5 +191,5 @@ Dont forget to fork 🍴 & star 🌟 repo😇
 ---
 
 <p align="center">
-  <img src='https://i.imgur.com/LyHic3i.gif'/>
+  <img src="https://imgur.com/khamph.jpg" alt="KHAMPH-XMD"/>
 </p>
