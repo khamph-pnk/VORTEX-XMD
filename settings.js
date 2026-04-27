@@ -2,13 +2,13 @@ const settings = {
 
 SESSION_ID: process.env.SESSION_ID || '',
   
-botName: process.env.BOT_NAME || "Khamph",
+botName: process.env.BOT_NAME || "KHAMPH-XMD",
   
 botOwner: process.env.BOT_OWNER || 'Khamph',
 
 Botprefix: process.env.PREFIX || '.',
   
-ownerNumber: process.env.OWNER_NUMBER || '255760774888',
+ownerNumber: process.env.OWNER_NUMBER || '254758575027',
   
 commandMode: process.env.COMMAND_MODE || "private",
    
